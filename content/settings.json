@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#d86502",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cosmo",
+    "custom": "ecom-beauty"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/ferragemvenancio",
@@ -16,11 +16,11 @@
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/logo-casinha-fva-copia.png",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/logo-casinha-fva-copia.png",
   "store_id": 51342,
   "description": "ferragemvenancio",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/logo-casinha-fva-copia.png"
 }
