@@ -1,17 +1,27 @@
 {
   "marketing_stripe": {
     "text": "Aproveite nossos Kits ",
-    "link": ""
+    "link": "",
+    "background": "#ff8500",
+    "color": "#000000"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
+        "title": "Quem somos",
         "link": "/pages/sobre-nos"
       },
       {
         "title": "Nossos Diferenciais ",
         "link": "/posts/esta-loja-e-um-pwa"
+      },
+      {
+        "title": "Aluguel de Ferramentas",
+        "link": "/posts/aluguel-de-ferramentas"
+      },
+      {
+        "title": "Cursos e Treinamentos",
+        "link": "/posts/servico-de-valor"
       }
     ],
     "phone_wpp": true,
@@ -20,10 +30,10 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
-  "alphabetical_order_submenu": false,
+  "alphabetical_order_submenu": true,
   "full_width_submenu": false
 }
