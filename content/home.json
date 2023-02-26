@@ -31,17 +31,12 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "63b835824834634f732ab187:categories:Sem Mofo:/sem-mofo",
-      "sort": "offers",
-      "title": "teste",
-      "headless": false,
+      "collection_id": null,
+      "sort": null,
+      "title": "Produtos em destaque",
+      "headless": true,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
     }
   ]
 }
