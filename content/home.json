@@ -30,6 +30,10 @@
       "headless": true,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "custom-html",
+      "markdown": "<script src=\"https://cdn.lightwidget.com/widgets/lightwidget.js\"></script><iframe src=\"https://cdn.lightwidget.com/widgets/c3386271c616587a84c3208c5eaa46aa.html\" scrolling=\"no\" allowtransparency=\"true\" class=\"lightwidget-widget\" style=\"width:50%;border:0;overflow:hidden;\"></iframe>"
     }
   ]
 }
