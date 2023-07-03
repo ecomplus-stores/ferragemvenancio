@@ -34,7 +34,7 @@
     {
       "type": "custom-html",
       "markdown": "<script src=\"https://cdn.lightwidget.com/widgets/lightwidget.js\"></script><iframe src=\"https://cdn.lightwidget.com/widgets/c3386271c616587a84c3208c5eaa46aa.html\" scrolling=\"no\" allowtransparency=\"true\" class=\"lightwidget-widget\" style=\"width:50%;border:0;overflow:hidden;\"></iframe>",
-      "html": "<style>\n  .lightwidget-widget {\n    max-width: 100px;\n    margin: 60px auto;\n    width: 150%;\n    max-width: 500px;\n  }\n\n  .lightwidget-widget iframe {\n    width: 110%;\n    height: 600px;\n  }\n</style>\n\n<footer class=\"py-3 py-lg-4 py-xl-5\">\n</footer>\n\n<div class=\"lightwidget-widget\">\n  <iframe src=\"https://cdn.lightwidget.com/widgets/c3386271c616587a84c3208c5eaa46aa.html\" scrolling=\"no\" allowtransparency=\"true\" class=\"lightwidget-widget\" style=\"border:0;overflow:hidden;\"></iframe>\n</div>\n"
+      "html": "\n"
     }
   ]
 }
