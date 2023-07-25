@@ -35,6 +35,27 @@
       "type": "custom-html",
       "markdown": "<script src=\"https://cdn.lightwidget.com/widgets/lightwidget.js\"></script><iframe src=\"https://cdn.lightwidget.com/widgets/c3386271c616587a84c3208c5eaa46aa.html\" scrolling=\"no\" allowtransparency=\"true\" class=\"lightwidget-widget\" style=\"width:50%;border:0;overflow:hidden;\"></iframe>",
       "html": "<style>\n  .lightwidget-widget {\n    max-width: 100%;\n    margin: 10px 0;\n    width: 100%;\n    max-width: 900px;\n    margin-left: 0;\n  }\n\n  .lightwidget-widget iframe {\n    width: 100%;\n    height: 600px;\n  }\n</style>\n\n<footer class=\"py-10 py-lg-10 py-xl-10\">\n</footer>\n\n<div class=\"lightwidget-widget\" style=\"text-align: justfy;\"> <!-- Adiciona essa propriedade para alinhar o widget à esquerda -->\n  <!-- LightWidget WIDGET -->\n  <script src=\"https://cdn.lightwidget.com/widgets/lightwidget.js\"></script>\n  <iframe src=\"https://cdn.lightwidget.com/widgets/c3386271c616587a84c3208c5eaa46aa.html\" scrolling=\"no\" allowtransparency=\"true\" class=\"lightwidget-widget\" style=\"width:100%;border:0;overflow:hidden;\"></iframe>\n\n"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/prancheta-1_1.png",
+          "mobile_img": "/img/uploads/prancheta-1_1.png"
+        },
+        {
+          "img": "/img/uploads/prancheta-1_2.png",
+          "mobile_img": "/img/uploads/prancheta-1_2.png"
+        },
+        {
+          "img": "/img/uploads/prancheta-1_3.png",
+          "mobile_img": "/img/uploads/prancheta-1_3.png"
+        },
+        {
+          "img": "/img/uploads/prancheta-1.png",
+          "mobile_img": "/img/uploads/prancheta-1.png"
+        }
+      ]
     }
   ]
 }
