@@ -2,18 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://ferragemvenancio.com.br/categoria-kit-anti-mofo</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ferragemvenancio.com.br/promocoes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://ferragemvenancio.com.br/mop-limpeza-pratica---mor</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -254,6 +242,12 @@
     </url>
   
     <url>
+      <loc>https://ferragemvenancio.com.br/anti-mofo-900ml-allchem</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://ferragemvenancio.com.br/suvinil</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -261,6 +255,18 @@
   
     <url>
       <loc>https://ferragemvenancio.com.br/qboa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ferragemvenancio.com.br/categoria-kit-anti-mofo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ferragemvenancio.com.br/promocoes</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -332,6 +338,12 @@
     </url>
   
     <url>
+      <loc>https://ferragemvenancio.com.br/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
       <loc>https://ferragemvenancio.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -341,12 +353,6 @@
       <loc>https://ferragemvenancio.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ferragemvenancio.com.br/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
