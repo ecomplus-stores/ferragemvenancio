@@ -12,7 +12,8 @@
   },
   "categories_list": {
     "featured": [
-      "/promocoes?PROMOÇÕES"
+      "/promocoes?PROMOÇÕES",
+      "/ferramentas?FERRAMENTAS"
     ],
     "random": 20,
     "full_width": true
