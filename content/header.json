@@ -13,7 +13,12 @@
   "categories_list": {
     "featured": [
       "/promocoes?PROMOÇÕES",
-      "/ferramentas?FERRAMENTAS"
+      "/banheiros-e-cozinhas?BANHEIROS E COZINHAS",
+      "/ferramenta-eletrica?FERRAMENTA ELETRICA",
+      "/utilidade-e-decoracao?UTILIDADE E DECORAÇÃO",
+      "/limpeza?LIMPEZA",
+      "/ferramenta?FERRAMENTA",
+      "/eletrica?ELETRICA"
     ],
     "random": 20,
     "full_width": true
