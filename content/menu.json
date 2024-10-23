@@ -1,5 +1,14 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "banheiros-e-cozinhas",
+    "ferramenta-eletrica",
+    "eletrica",
+    "promocao",
+    "utilidade-e-decoracao",
+    "limpeza",
+    "ferramenta",
+    "tintas-e-complementos"
+  ],
   "alphabetical_order": true,
   "phone_wpp": true,
   "socials": true
