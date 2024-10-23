@@ -12,14 +12,14 @@
   },
   "categories_list": {
     "featured": [
-      "/promocoes?PROMOÇÕES",
       "/banheiros-e-cozinhas?BANHEIROS E COZINHAS",
       "/ferramenta-eletrica?FERRAMENTA ELETRICA",
       "/utilidade-e-decoracao?UTILIDADE E DECORAÇÃO",
       "/limpeza?LIMPEZA",
       "/ferramenta?FERRAMENTA",
       "/eletrica?ELETRICA",
-      "/tintas-e-complementos?TINTAS E COMPLEMENTOS"
+      "/tintas-e-complementos?TINTAS E COMPLEMENTOS",
+      "/promocao?PROMOÇÃO"
     ],
     "random": 20,
     "full_width": true
