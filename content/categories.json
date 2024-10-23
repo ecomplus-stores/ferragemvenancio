@@ -19,7 +19,7 @@
     },
     {
       "type": "document-description",
-      "enabled": false
+      "enabled": true
     }
   ]
 }
