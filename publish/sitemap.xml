@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://ferragemvenancio.com.br/assentos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ferragemvenancio.com.br/ferramenta-eletrica</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ferragemvenancio.com.br/eletrica</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ferragemvenancio.com.br/promocao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ferragemvenancio.com.br/utilidade-e-decoracao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ferragemvenancio.com.br/limpeza</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ferragemvenancio.com.br/ferramenta</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ferragemvenancio.com.br/tintas-e-complementos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://ferragemvenancio.com.br/varal-de-chao-slim-preto---mor</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -290,54 +338,6 @@
     </url>
   
     <url>
-      <loc>https://ferragemvenancio.com.br/assentos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ferragemvenancio.com.br/ferramenta-eletrica</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ferragemvenancio.com.br/eletrica</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ferragemvenancio.com.br/promocao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ferragemvenancio.com.br/utilidade-e-decoracao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ferragemvenancio.com.br/limpeza</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ferragemvenancio.com.br/ferramenta</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ferragemvenancio.com.br/tintas-e-complementos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://ferragemvenancio.com.br/duchas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -350,13 +350,13 @@
     </url>
   
     <url>
-      <loc>https://ferragemvenancio.com.br/pages/pagamentos</loc>
+      <loc>https://ferragemvenancio.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://ferragemvenancio.com.br/pages/faq</loc>
+      <loc>https://ferragemvenancio.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -368,13 +368,13 @@
     </url>
   
     <url>
-      <loc>https://ferragemvenancio.com.br/pages/sobre-nos</loc>
+      <loc>https://ferragemvenancio.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://ferragemvenancio.com.br/pages/trocas</loc>
+      <loc>https://ferragemvenancio.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -410,13 +410,13 @@
     </url>
   
     <url>
-      <loc>https://ferragemvenancio.com.br/admin/index</loc>
+      <loc>https://ferragemvenancio.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://ferragemvenancio.com.br/app/index</loc>
+      <loc>https://ferragemvenancio.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
