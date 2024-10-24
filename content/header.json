@@ -6,7 +6,12 @@
     "color": "#000000"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "Whatsapp",
+        "link": "https://wa.me/message/YKNN6EM5X2CYO1"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   },
