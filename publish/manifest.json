@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.7d02766f82eed31fd99ad8d015e8dd69.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.9e4e3bc142f27de37be1aab86e836fbe.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.899a61ea8a30bbdedabbe1883f1405d4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.9afe2953d4794f15e621a39fae518029.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.c9f39ab610a8494b6bb0eab30399031c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "ferragemvenancioaires",
+  "short_name": "Ferragem Venâncio Aires",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Ferragem Venâncio Aires - Venâncio Locações - Serviço de Valor",
+  "background_color": "#d38111",
+  "theme_color": "#d86502"
+}
